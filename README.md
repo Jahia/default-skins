@@ -4,7 +4,7 @@
 
 Default Skins
 ======================
-Default Experience Manager module for the Digital Experience Manager.
+Skins are predefined layouts that can be applied to any content object of jahia pages by authors, whatever the content particular structure.
 
 ## Open-Source
 
