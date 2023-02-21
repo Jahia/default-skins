@@ -64,7 +64,7 @@
   </scm>
 
     <properties>
-        <jahia-depends>skins</jahia-depends>
+        <jahia-depends></jahia-depends>
         <jahia-module-signature>MC4CFQCOpMA5GbfKy8dQMlKIGxvvndMyAQIVAJUocCsCgkTCgLCWtIRwSU3rcEd8</jahia-module-signature>
     </properties>
 
