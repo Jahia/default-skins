@@ -52,7 +52,7 @@
         <version>8.0.0.0</version>
     </parent>
     <artifactId>default-skins</artifactId>
-	<version>8.1.0-SNAPSHOT</version>
+	<version>8.1.0</version>
     <packaging>bundle</packaging>
     <name>Jahia Default Skins</name>
     <description>This module provides default skins.</description>
@@ -60,11 +60,11 @@
         <connection>scm:git:git@github.com:Jahia/default-skins.git</connection>
         <developerConnection>scm:git:git@github.com:Jahia/default-skins.git</developerConnection>
         <url>scm:git:git@github.com:Jahia/default-skins.git</url>
-      <tag>HEAD</tag>
+      <tag>8_1_0</tag>
   </scm>
 
     <properties>
-        <jahia-depends></jahia-depends>
+        <jahia-depends />
         <jahia-module-signature>MCwCFGhRB02iAEGJ4FYQS205nUKxaTTZAhQEOYGpgttma/Z2Aw2zvprFzJk+cg==</jahia-module-signature>
     </properties>
 
