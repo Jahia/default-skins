@@ -64,8 +64,9 @@
   </scm>
 
     <properties>
-        <jahia-depends />
+        <jahia-depends>skins</jahia-depends>
         <jahia-module-signature>MCsCE3eelSG8/u4iryJf3hoFVS1QixcCFDFMjN3GmrVpiMOF5DXrs399PGL0</jahia-module-signature>
+        <jahia.plugin.version>6.9</jahia.plugin.version>
     </properties>
 
     <repositories>
@@ -82,7 +83,7 @@
             <url>https://devtools.jahia.com/nexus/content/groups/public</url>
         </repository>
     </repositories>
-    
+
     <build>
         <plugins>
             <plugin>
